@@ -3,7 +3,7 @@
 ## Manon Van de Merckt
 
 
-*quote*
+*Hapiness is only real when shared.*
 ![image](url)
 
 ### "Me, in one sentence"
