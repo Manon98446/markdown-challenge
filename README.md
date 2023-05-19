@@ -4,7 +4,7 @@
 
 
 *Hapiness is only real when shared*, Leo Tolstoy.
-![I like my dog better](C:\Users\manon\OneDrive\Images)
+![Mount Fuji](https://i.pinimg.com/originals/ad/c7/ae/adc7ae5ba3468ab638f35dbf495b7310.jpg)
 
 ### "Me, in one sentence"
 
