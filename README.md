@@ -3,8 +3,8 @@
 ## Manon Van de Merckt
 
 
-*Hapiness is only real when shared.*
-![image](url)
+*Hapiness is only real when shared*, Leo Tolstoy.
+![I like my dog better](C:\Users\manon\OneDrive\Images)
 
 ### "Me, in one sentence"
 
@@ -35,6 +35,6 @@ funny story
 #### TL;DR
 Summary story
 
-<<[name](url)|| Manon || next[name](url)>>
+<<[Lucie](https://github.com/luciemtro/markdown-challenge)|| Manon || [Marius](https://github.com/Flabidouf/markdown-challenge)>>
 
 
